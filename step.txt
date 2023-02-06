@@ -1,0 +1,6 @@
+open xampp and start a sql before that call IT to unblock the port in mysql 
+php artisan migrate:fresh 
+php artisan db:seed
+
+
+(Abdelrahman.Mohamed)
